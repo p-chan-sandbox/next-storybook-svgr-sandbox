@@ -1,6 +1,8 @@
 {
   "extends": "@stardust-configs/tsconfig/next.json",
   "compilerOptions": {
+    "baseUrl": "./",
+    "typeRoots": ["./node_modules/@types", "./src/@types"],
     "plugins": [
       {
         "name": "next"

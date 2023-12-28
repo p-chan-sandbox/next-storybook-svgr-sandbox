@@ -14,9 +14,12 @@
   "devDependencies": {
     "@stardust-configs/prettier-config": "0.3.0",
     "@stardust-configs/tsconfig": "0.4.0",
+    "@svgr/webpack": "8.1.0",
     "@types/node": "20.10.5",
     "@types/react": "18.2.45",
-    "@types/react-dom": "18.2.18"
+    "@types/react-dom": "18.2.18",
+    "typescript": "5.3.3",
+    "url-loader": "4.1.1"
   },
   "private": true
 }
