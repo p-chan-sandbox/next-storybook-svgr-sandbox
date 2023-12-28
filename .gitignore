@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# logs
+*.log
+
+# output
+.next
+
+# types
+next-env.d.ts
